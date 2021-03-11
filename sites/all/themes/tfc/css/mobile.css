@@ -1,0 +1,220 @@
+/* CSS Document */
+
+h1 { font-size:24px; line-height:26px; }
+
+#block-block-3 { height:60px; clear:both; }
+#copy { clear:both; }
+#contactbutton { top:10px; right:122px; display:block; line-height:32px; width:32px; height:32px; background-size:96px 64px; }
+#contactbutton:hover { background-position:0 -32px; }
+#footer { padding:20px 10px 30px 10px; font-size:14px; }
+#header { background-size:4px 4px; }
+#header .widther { height:auto; background:none; }
+#logo { position:relative; bottom:auto; height:154px; overflow:hidden; }
+#logo img { width:154px; height:154px; }
+#main { background:#FFF; padding:10px 0 0 0; }
+#maincol { padding:10px; }
+#maincol.withright { width:auto; float:none; }
+#maincol.withright .pad { padding:none; }
+#phonenumber { top:10px; right:0; background-size:116px 32px; width:116px; height:32px; line-height:32px; font-size:13px; letter-spacing:-1px; }
+#phonenumber a { color:#666; }
+#rightcol { width:auto; float:none; }
+
+.alignleft, .alignright { float:none; margin:0 0 20px 0; }
+.breadcrumb { display:none; }
+.centfull { width:100%; height:auto; }
+#twitter, #linkedin { top:48px; right:0; }
+#twitter a, #linkedin a { height:32px; width:32px; background-size:96px 64px; background-position:-32px 0; }
+#linkedin a { background-position:-64px 0; }
+#twitter a:hover { background-position:-32px -32px; }
+#linkedin a:hover { background-position:-64px -32px; }
+#twitter a span, #linkedin a span { font-size:5px; line-height:8px; padding-top:24px; }
+#linkedin { right:38px; }
+.listimg { float:none; margin:0 0 10px 0; }
+.node img { width:100%; height:auto; }
+.item-list .pager li.pager-item { display:none; }
+.widther { width:320px; }
+.vidbody { width:300px; height:169px; }
+.view-side-links { clear:both; }
+
+/*Menu*/
+#block-superfish-1 { display:none; position:relative; top:auto; right:auto; padding:10px; background:#e6007f; }
+#block-block-4 { display:block; }
+#block-block-4 { position:absolute; top:111px; right:0; width:155px; }
+#mobmenubut { display:block; height:31px; line-height:31px; padding:0 0 0 30px; color:#FFF; text-transform:uppercase; background:url(../images/mobmenu.png) no-repeat 0 0 #e6007f; background-size:20px 62px; font-weight:bold; }
+#mobmenubut:hover { background-position:0 -31px; background-color:#000; }
+#superfish-2 .odd a, #superfish-2 .even a { font-size:14px; }
+
+/*Video Links*/
+.view-video-link .field-content a { background-size:286px 92px; height:46px; width:auto; }
+.view-video-link .field-content a span { padding:0 0 0 61px; line-height:46px; font-size:12px; }
+.view-video-link .field-content a:hover { background-position:0 -46px; }
+.view-video-link .field-content a img { width:92px; height:46px; }
+.node-type-video .node iframe { width:290px; height:164px; }
+
+/*Side Links*/
+.view-side-links .views-field-title a span { text-align:center; }
+
+/*Side Testimonials*/
+#block-views-testimonials-block-1 { margin-bottom:20px; }
+
+/*Home*/
+#homemenu { height:auto; padding:0 10px; }
+#homemenu li { float:left; width:77px; height:77px; }
+#homemenu li a { width:67px; height:67px; background-size:603px 134px; }
+#homemenu li a span { padding:42px 0 0 5px; font-size:8px; line-height:10px; }
+#homemenu .base { float:none; width:auto; height:50px; clear:both; }
+#homemenu .base a { width:auto; height:40px; background-image:url(../images/hp-arrows-mob.png); background-size:24px 80px; background-repeat:no-repeat; background-position:0 0; background-color:#96c11f; }
+#homemenu .base a:hover { background-position:0 -40px; background-color:#000; }
+#homemenu .base a span { padding:0 0 0 36px; line-height:40px; font-size:12px; }
+#homemenu .selling a { background-position:-67px 0; }
+#homemenu .selling a:hover { background-position:-67px -67px; }
+#homemenu .marketing a { background-position:-134px 0; }
+#homemenu .marketing a:hover { background-position:-134px -67px }
+#homemenu .coaching { width:79px; }
+#homemenu .coaching a { background-position:-201px 0; width:69px; }
+#homemenu .coaching a:hover { background-position:-201px -67px }
+#homemenu .nonexec { width:67px; }
+#homemenu .nonexec a { background-position:-268px 0; }
+#homemenu .nonexec a:hover { background-position:-268px -67px }
+#homemenu .nonexec a strong { display:none; }
+#homemenu .writing a { background-position:-335px 0; }
+#homemenu .writing a:hover { background-position:-335px -67px }
+#homemenu .onlinead a { background-position:-402px 0; }
+#homemenu .onlinead a:hover { background-position:-402px -67px }
+#homemenu .video { width:79px; }
+#homemenu .video a { background-position:-469px 0; width:69px; }
+#homemenu .video a:hover { background-position:-469px -67px }
+#homemenu .website { width:67px; }
+#homemenu .website a { background-position:-536px 0; }
+#homemenu .website a:hover { background-position:-536px -67px }
+.front #maincol.withright { width:auto; float:none; }
+.front #rightcol { width:auto; }
+.front #sociallinks { float:none; }
+#block-views-side-links-block-2 { height:auto; }
+.front #block-views-side-links-block-2 .views-row, .front #block-views-side-links-block-2 .views-row-4 { width:100%; }
+.front .view-side-links .views-field-title a span { padding:40px 10px 60px 110px; font-size:18px; line-height:18px; text-align:left; }
+#block-block-13 a img, #block-block-14 a img { width:320px; height:auto; }
+/*2018*/
+#homemenu2018 { height:400px; }
+#homemenu2018 li, #homemenu2018 .smod { float:none; width:300px; height:77px; }
+#homemenu2018 li a { width:300px; height:72px; background:url(../images/hp-buttons2018_m.png) no-repeat 0 0 #ed008c; border-radius:10px; -moz-border-radius:10px; -webkit-border-radius:10px; }
+#homemenu2018 li a h2 { text-align: left; font-size:16px; padding:12px 50px 0 100px;line-height:16px; }
+#homemenu2018 li a p, #homemenu2018 li a span { display:none; }
+#homemenu2018 li a:hover { background-position:-300px 0; background-color:#000; }
+#homemenu2018 li.software a { background-position:0 -72px; background-color:#2e2b7f; }
+#homemenu2018 li.non a { background-position:0 -144px; background-color:#93c01f; }
+#homemenu2018 li.coaching a { background-position:0 -216px; background-color:#f69621; }
+#homemenu2018 li.smod a { background-position:0 -288px; background-color:#838383; }
+#homemenu2018 li.software a:hover { background-position:-300px -72px; background-color:#000; }
+#homemenu2018 li.non a:hover { background-position:-300px -144px; background-color:#000; }
+#homemenu2018 li.coaching a:hover { background-position:-300px -216px; background-color:#000; }
+#homemenu2018 li.smod a:hover { background-position:-300px -288px; background-color:#000; }
+
+/*Theme Pages*/
+.taxonomy-attract #maincol.withright .pad, 
+.taxonomy-engage #maincol.withright .pad, 
+.taxonomy-nurture #maincol.withright .pad, 
+.taxonomy-close #maincol.withright .pad, 
+.taxonomy-attract--engage #maincol.withright .pad, 
+.taxonomy-engage--nurture #maincol.withright .pad,
+.taxonomy-your-challenge #maincol.withright .pad,
+.taxonomy-resources #maincol.withright .pad,
+.taxonomy-lead-generation #maincol.withright .pad,
+.taxonomy-contact #maincol.withright .pad,
+.taxonomy-consultancy #maincol.withright .pad,
+.taxonomy-smartmarketing #maincol.withright .pad { background:none; padding:0; }
+
+/*Winning Methodology*/
+.page-node-29 .field-name-body img, .page-node-682 .field-name-body img { width:320px; }
+.wmattract, .wmattract img { height:54px; }
+.wmengage, .wmengage img { height:35px; }
+.wmnurture, .wmnurture img { height:32px; }
+.wmclose, .wmclose img { height:60px; }
+.page-node-682 #block-views-act-on-iframe-block iframe { height:500px; }
+
+/*5 Minute Guides*/
+.view-5-minute-guides h2 { padding:10px 0 0; }
+.view-5-minute-guides .descblock { padding:10px 0 0; height:auto; }
+.view-5-minute-guides .views-field-title img { display:none; }
+
+/*Contact*/
+#node-24 iframe { height:840px; }
+
+/*Grey Links*/
+.view-grey-links .views-row, .view-grey-links .views-row-3, .view-grey-links .views-row-6, .view-grey-links .views-row-9, .view-grey-links .views-field-title a { width:100%; margin-bottom:1px; }
+
+/*Consultancy Pages*/
+#block-views-act-on-iframe-block iframe { height:540px; }
+
+/*Resources*/
+#resourceslinks { height:auto; }
+#resourceslinks li { width:150px; height:140px; }
+#resourceslinks li a { width:140px; height:140px; background-size:560px 280px; }
+#resourceslinks li a span { padding:100px 0 0 0; font-size:14px; line-height:14px; }
+#resourceslinks .rl5minguides, #resourceslinks .rlreading { width:140px; }
+#resourceslinks .rlwhitepapers a:hover { background-position:0 -140px; }
+#resourceslinks .rl5minguides a { background-position:-140px 0; }
+#resourceslinks .rl5minguides a:hover { background-position:-140px -140px; }
+#resourceslinks .rlvideos a { background-position:-280px 0; }
+#resourceslinks .rlvideos a:hover { background-position:-280px -140px; }
+#resourceslinks .rlreading a { background-position:-420px 0; }
+#resourceslinks .rlreading a:hover { background-position:-420px -140px; }
+
+
+/*5 Min Guies / White Papers / Videos*/
+.view-5-minute-guides .views-field-title img, .view-white-papers .views-field-title img, .node-5-minute-guide .field-name-field-5mg-thumbnail, .node-white-papers .field-name-field-white-paper-thumbnail, .node-top-ten-tips .field-name-field-t10t-thumbnail, .node-basics-guide .field-name-field-basics-thumbnail { display:none; }
+.view-5-minute-guides h2, .view-white-papers h2 { padding:10px 0 0 0; }
+.view-5-minute-guides .descblock, .view-white-papers .descblock { padding:0 0 10px 0; }
+.node-5-minute-guide, .node-white-papers, .node-top-ten-tips, .node-basics-guide { padding:0; }
+.views-field-field-act-on-access-form iframe { width:100%; height:500px; }
+.view-interesting-reading .views-row, .view-interesting-reading .views-field-field-book-thumbnail, .view-interesting-reading .views-field-title, .view-interesting-reading .views-field-field-author, .view-interesting-reading .views-field-field-amazon-link { width:100%; }
+.view-videos .views-field-title img { position:relative; top:20px; left:20px; }
+.view-videos h2 { padding:32px 0 10px 20px; margin:0; }
+.view-videos .descblock { padding:0 20px 0 20px; }
+
+/*Testimonials*/
+.page-testimonials .view-testimonials .views-field-field-company-logo { position:relative; top:auto; left:auto; }
+.page-testimonials .view-testimonials .views-row { padding:10px 0 50px 0; }
+
+/*Team*/
+.view-the-team .views-row, .view-the-team .views-row-4, .view-the-team .views-row-8, .view-the-team .views-row-12, .view-the-team .views-field-title, .view-the-team .views-field-field-linkedin-url { width:100%; float:none; height:auto; }
+.view-the-team h2 { padding-top:290px; }
+.view-the-team h3 { height:auto; margin:0; padding-bottom:10px; }
+.view-the-team .views-row img { width:290px; height:290px; }
+
+/*Partners*/
+.view-strategic-partners .views-row { padding:10px;  }
+.view-strategic-partners .views-field-field-company-logo { position:relative; top:auto; left:auto; }
+
+/*I'm In*/
+.imincontainer { width:290px; height:77px; background-size:383px 77px; }
+#form_0116_ao_submit_input { width:196px; top:40px; left:94px; height:41px; line-height:41px; font-size:15px; }
+#form_0116_fld_0, #form_0116_fld_0:focus, #form_0116_fld_0.iminfieldselected, #form_0116_fld_0.iminfieldselected:focus { width:168px; top:10px; left:112px; font-size:15px; }
+
+/*SMOD*/
+#node-753 .field-name-body iframe, #node-761 .field-name-body iframe { width:320px; height:180px; }
+#SMODWordle, #SMODWordleN { display:none; }
+#SMODWordleM { display:block; }
+#block-block-11 .SMODWebinarBig { display:none; }
+#block-block-11 .SMODWebinarSmall img { display:block; width:300px; height:auto; margin:auto; }
+#block-block-11 .SMODWebinarSmall { display:block; margin-bottom:10px; }
+#node-747 iframe { height:500px; }
+
+/*showcase*/
+.page-node-827 h1 { font-size:40px; padding:30px 0 10px 0; }
+#block-views-showcase-block-3 table { width:300px; display:block; }
+#block-views-showcase-block-3 table th { display:none; }
+#block-views-showcase-block-3 table td { display:block; float:left; padding:0; }
+#block-views-showcase-block-3 table img { width:80px; height:auto; margin:10px; }
+#block-views-showcase-block-3 .views-field-title { width:280px; padding:10px; }
+.views-field-field-showcase-valuable-collater, .views-field-field-showcase-video, .views-field-field-showcase-ppc { width:100px; }
+.view-showcase .views-row-last .views-field-title { border-radius:0 0 0 0; -moz-border-radius:0 0 0 0; -webkit-border-radius:0 0 0 0; }
+.view-showcase .views-row-last .views-field-field-showcase-valuable-collater { border-radius:0 0 0 10px; -moz-border-radius:0 0 0 10px; -webkit-border-radius:0 0 0 10px; }
+.view-showcase .views-row-first .views-field-title { border-radius:10px 10px 0 0; -moz-border-radius:10px 10px 0 0; -webkit-border-radius:10px 10px 0 0; }
+#cboxWrapper iframe { width:300px; height:169px; }
+
+/*New Resources*/
+.resourceslist.Video, .resourceslist.Tips, .resourceslist.Minute, .resourceslist.Papers { background-size:30px 30px; background-position:5px 5px; }
+.resourceslist h2 {font-size:14px; }
+.resourceslist p { font-size:10px; }
+.resourcespad { padding:10px 90px 10px 40px; }

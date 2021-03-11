@@ -1,0 +1,166 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://dww.terryforsey.com/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://dww.terryforsey.com/blog" />
+<link rel="shortlink" href="http://dww.terryforsey.com/blog" />
+  <title>Blog</title>
+  <link type="text/css" rel="stylesheet" href="http://dww.terryforsey.com/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://dww.terryforsey.com/sites/default/files/css/css_UR3bueX_heIgdyOeDZGFEaMak46d-ocgku5uxNMLO2c.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://dww.terryforsey.com/sites/default/files/css/css_Wvx69yhFdFBmmlrnemSBfnf7QPBiSNR1Z8wpWOmbFpY.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#sliding-popup.sliding-popup-bottom{background:#96c11f;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#000000 !important;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="http://dww.terryforsey.com/sites/default/files/css/css_y323BD21pI8j2UmYImV7blI_AWf0r3XnlupHM-51tpY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://dww.terryforsey.com/sites/default/files/css/css_W4iAHyECN-roEM7EbknnX42LLZbqDc-dQputKu7uXEA.css" media="all" />
+  <link rel="stylesheet" type="text/css" media="only screen and (min-width:50px) and (max-width:479px)" href="/sites/all/themes/tfc/css/mobile.css">
+  <link rel="stylesheet" type="text/css" media="only screen and (min-width:480px) and (max-width:767px)" href="/sites/all/themes/tfc/css/tablet.css">
+  <link rel="stylesheet" type="text/css" media="only screen and (min-width:768px) and (max-width:959px)" href="/sites/all/themes/tfc/css/portrait.css">
+  <script type="text/javascript" src="http://dww.terryforsey.com/sites/default/files/js/js_Xjzh1hVfcgVAixhmmB6Go8TUMPOiprA-2vkC-oWXARQ.js"></script>
+<script type="text/javascript" src="http://dww.terryforsey.com/sites/default/files/js/js_jEDow1yu53gyvVvrJL3WUifrGOYaDxKxwDB9xn4qs7g.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"tfc","theme_token":"jr7Ii7iCzd-B2J4VZKBiPFI6kp3wcuQuZ6bymIFShU0","js":{"sites\/all\/modules\/responsive_imagemaps\/responsive_imagemaps.js":1,"sites\/all\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/libraries\/responsive-imagemaps\/jquery.rwdImageMaps.min.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/themes\/tfc\/css\/style.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies to give you the best experience on our site.\u003C\/h2\u003E\u003Cp\u003EBy continuing to use this site, you are giving consent to the cookies being used. \u003Ca href=\u0022\/privacy-policy\u0022\u003EMore info\u003C\/a\u003E\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EAccept \u0026 Close\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ETell Me More\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EHide\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EMore info\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/privacy-policy","popup_link_new_window":1,"popup_position":null,"popup_language":"en","domain":""},"superfish":[{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":true,"disableHI":false},"plugins":{"touchscreen":{"mode":"useragent_predefined"},"smallscreen":{"mode":"window_width","breakpoint":767,"addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Main menu"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}},{"id":"2","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":true,"dropShadows":true,"disableHI":false},"plugins":{"supposition":false,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}]});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-blog" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="mainholder">
+	<div id="header">
+    	<div class="widther">
+        	<div id="linkedin"><a href="https://www.linkedin.com/in/terryforsey/" target="_blank"><span>Follow</span></a></div><div id="twitter"><a href="https://twitter.com/TerryForsey" target="_blank"><span>Follow</span></a></div>
+			<a href="/" title="Home" id="logo"><img src="http://dww.terryforsey.com/sites/all/themes/tfc/logo.png" alt="Terry Forsey Consulting – Software Sales and Marketing" /></a>
+            <a href="/contact-how-find-us" id="contactbutton">Contact</a>
+            <div id="phonenumber">01536 771440</div>
+              <div class="region region-header">
+    <div id="block-superfish-1" class="block block-superfish  block-superfish-1">      <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none"><li id="menu-218-1" class="first sf-depth-1 sf-no-children"><a href="/" class="sf-depth-1">Home</a></li><li id="menu-538-1" class="middle sf-depth-1 menuparent"><a href="/consultancy-services" class="sf-depth-1 menuparent">Consultancy Services</a><ul><li id="menu-543-1" class="first sf-depth-2 sf-no-children"><a href="/selling-software" class="sf-depth-2">Selling Software</a></li><li id="menu-562-1" class="middle sf-depth-2 sf-no-children"><a href="/successful-software-marketing" class="sf-depth-2">Software Marketing</a></li><li id="menu-696-1" class="middle sf-depth-2 sf-no-children"><a href="/executive-coaching-and-mentoring" class="sf-depth-2">Executive Coaching &amp; Mentoring</a></li><li id="menu-697-1" class="last sf-depth-2 sf-no-children"><a href="/non-executive-services" class="sf-depth-2">Non-Executive Services</a></li></ul></li><li id="menu-1144-1" class="middle sf-depth-1 sf-no-children"><a href="/smartmarketing-demand" class="sf-depth-1">SmartMarketing on Demand</a></li><li id="menu-544-1" class="middle sf-depth-1 menuparent"><a href="/your-challenge" title="Your Challenge" class="sf-depth-1 menuparent">Your Challenge</a><ul><li id="menu-568-1" class="first sf-depth-2 sf-no-children"><a href="/narinda-sales-director" title="Narinda - Sales Director" class="sf-depth-2">Narinda - Sales Director</a></li><li id="menu-569-1" class="middle sf-depth-2 sf-no-children"><a href="/marie-marketing-manager" class="sf-depth-2">Marie - Marketing Manager</a></li><li id="menu-726-1" class="last sf-depth-2 sf-no-children"><a href="/tom-technical-guru" title="Tom - Technical Guru" class="sf-depth-2">Tom - Technical Guru</a></li></ul></li><li id="menu-540-1" class="middle sf-depth-1 menuparent"><a href="/resources" class="sf-depth-1 menuparent">Resources</a><ul><li id="menu-584-1" class="first sf-depth-2"><a href="/resources/selling-software" class="sf-depth-2">Selling Software</a></li><li id="menu-583-1" class="middle sf-depth-2"><a href="/resources/marketing-and-lead-generation" class="sf-depth-2">Marketing and Lead Generation</a></li><li id="menu-582-1" class="middle sf-depth-2"><a href="/resources/business-management" class="sf-depth-2">Business Management</a></li><li id="menu-585-1" class="last sf-depth-2"><a href="/resources/coaching-non-executive" class="sf-depth-2">Coaching and Non-Executive</a></li></ul></li><li id="menu-693-1" class="active-trail middle sf-depth-1 sf-no-children"><a href="/blog" class="sf-depth-1 active">Blog</a></li><li id="menu-1156-1" class="last sf-depth-1 menuparent"><a href="/testimonials" title="" class="sf-depth-1 menuparent">Testimonials &amp; Showcase</a><ul><li id="menu-440-1" class="first sf-depth-2 sf-no-children"><a href="/testimonials" title="" class="sf-depth-2">Testimonials</a></li><li id="menu-1155-1" class="last sf-depth-2 sf-no-children"><a href="/showcase" class="sf-depth-2">Showcase</a></li></ul></li></ul>  </div><div id="block-block-4" class="block block-block  block-block-4">      <a href="javascript:;" id="mobmenubut">Menu</a>
+<script>
+jQuery("#mobmenubut").click(function ( ) { jQuery("#block-superfish-1").slideToggle("fast"); });
+</script>  </div>  </div>
+        </div>
+    </div>
+    <div id="main">
+    	<div class="widther">
+        	        	<div id="maincol" class="withright">
+            	<div class="pad">
+					    		        					<h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a></div>										  <div class="region region-content">
+    <div id="block-system-main" class="block block-system  block-system-main">      <div class="view view-blog view-id-blog view-display-id-page view-dom-id-17100ecf20e22b1be306a4a647a88995">
+        
+  
+  
+  
+      <h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-first first"><a title="Go to first page" href="/blog?page=0%2C120%2C49%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C50%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C51%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C52%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C53%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C54%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C55%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C56%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C57%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C48%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C49%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C50%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C51%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C52%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C53%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C54%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C55%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C56%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C57%2C45%2C81%2C45%29%20--%20">« first</a></li>
+<li class="pager-previous"><a title="Go to previous page" href="/blog?page=15%2C120%2C49%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C50%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C51%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C52%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C53%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C54%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C55%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C56%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C57%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C48%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C49%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C50%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C51%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C52%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C53%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C54%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C55%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C56%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C57%2C45%2C81%2C45%29%20--%20">‹ previous</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-item"><a title="Go to page 9" href="/blog?page=8%2C120%2C49%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C50%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C51%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C52%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C53%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C54%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C55%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C56%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C57%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C48%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C49%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C50%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C51%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C52%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C53%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C54%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C55%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C56%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C57%2C45%2C81%2C45%29%20--%20">9</a></li>
+<li class="pager-item"><a title="Go to page 10" href="/blog?page=9%2C120%2C49%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C50%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C51%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C52%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C53%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C54%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C55%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C56%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C57%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C48%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C49%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C50%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C51%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C52%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C53%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C54%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C55%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C56%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C57%2C45%2C81%2C45%29%20--%20">10</a></li>
+<li class="pager-item"><a title="Go to page 11" href="/blog?page=10%2C120%2C49%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C50%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C51%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C52%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C53%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C54%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C55%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C56%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C57%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C48%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C49%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C50%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C51%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C52%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C53%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C54%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C55%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C56%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C57%2C45%2C81%2C45%29%20--%20">11</a></li>
+<li class="pager-item"><a title="Go to page 12" href="/blog?page=11%2C120%2C49%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C50%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C51%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C52%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C53%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C54%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C55%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C56%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C57%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C48%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C49%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C50%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C51%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C52%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C53%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C54%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C55%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C56%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C57%2C45%2C81%2C45%29%20--%20">12</a></li>
+<li class="pager-item"><a title="Go to page 13" href="/blog?page=12%2C120%2C49%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C50%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C51%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C52%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C53%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C54%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C55%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C56%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C57%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C48%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C49%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C50%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C51%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C52%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C53%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C54%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C55%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C56%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C57%2C45%2C81%2C45%29%20--%20">13</a></li>
+<li class="pager-item"><a title="Go to page 14" href="/blog?page=13%2C120%2C49%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C50%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C51%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C52%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C53%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C54%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C55%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C56%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C57%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C48%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C49%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C50%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C51%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C52%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C53%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C54%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C55%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C56%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C57%2C45%2C81%2C45%29%20--%20">14</a></li>
+<li class="pager-item"><a title="Go to page 15" href="/blog?page=14%2C120%2C49%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C50%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C51%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C52%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C53%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C54%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C55%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C56%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C57%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C48%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C49%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C50%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C51%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C52%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C53%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C54%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C55%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C56%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C57%2C45%2C81%2C45%29%20--%20">15</a></li>
+<li class="pager-item"><a title="Go to page 16" href="/blog?page=15%2C120%2C49%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C50%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C51%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C52%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C53%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C54%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C55%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C56%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C57%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C48%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C49%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C50%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C51%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C52%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C53%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C54%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C55%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C56%2C45%2C81%2C45%29%2CCHAR%2845%2C120%2C49%2C57%2C45%2C81%2C45%29%20--%20">16</a></li>
+<li class="pager-current last">17</li>
+</ul></div>  
+  
+  
+  
+  
+</div>  </div><div id="block-block-6" class="block block-block  block-block-6">      <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5554aa6664bb2a2e" async="async"></script>
+<div class="addthis_sharing_toolbox"></div>  </div><div id="block-block-3" class="block block-block  block-block-3">      <p><a href="#top"><span>Top</span></a></p>
+  </div>  </div>
+                </div>
+            </div>
+            <div id="rightcol">  <div class="region region-right">
+    <div id="block-views-side-links-block-1" class="block block-views  block-views-side-links-block-1">      <div class="view view-side-links view-id-side_links view-display-id-block_1 view-dom-id-e8f9914fef772d13ece98e9a1e94d54a">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/showcase" class="showcase"><span>Showcase</span></a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/your-challenge" class="yourchallenge"><span>Your Challenge</span></a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/winning-methodology" class="winningmethodology"><span>A Winning Methodology</span></a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/testimonials" class="whatclientssay"><span>What Our Clients Say</span></a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>  </div>
+</div>        </div>
+	</div>
+    <div id="footer">
+    	<div class="widther">
+			  <div class="region region-footer">
+    <div id="block-superfish-2" class="block block-superfish  block-superfish-2">      <ul id="superfish-2" class="menu sf-menu sf-menu-footer sf-horizontal sf-style-none sf-total-items-7 sf-parent-items-0 sf-single-items-7"><li id="menu-536-2" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/contact-us" class="sf-depth-1">Contact &amp; How to Find Us</a></li><li id="menu-546-2" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/about-terry-forsey-consulting" class="sf-depth-1">About Us</a></li><li id="menu-529-2" class="middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="/privacy-policy" class="sf-depth-1">Privacy Policy</a></li><li id="menu-532-2" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="/code-professional-conduct" class="sf-depth-1">Code of Professional Conduct</a></li><li id="menu-530-2" class="middle odd sf-item-5 sf-depth-1 sf-no-children"><a href="/web-legal-notice" class="sf-depth-1">Web Legal Notice</a></li><li id="menu-535-2" class="middle even sf-item-6 sf-depth-1 sf-no-children"><a href="/strategic-partners" class="sf-depth-1">Strategic Partners</a></li><li id="menu-531-2" class="last odd sf-item-7 sf-depth-1 sf-no-children"><a href="/sitemap" class="sf-depth-1">Sitemap</a></li></ul>  </div><div id="block-block-2" class="block block-block  block-block-2">      <script type="text/javascript">
+jQuery('#menu-538-1 a.sf-depth-1').each(function(){
+    var jQueryobj = jQuery(this);
+    var txt = jQueryobj.text();
+    jQueryobj.html(txt.replace(/ /g, '<br/>'))
+});
+jQuery('#menu-544-1 a.sf-depth-1').each(function(){
+    var jQueryobj = jQuery(this);
+    var txt = jQueryobj.text();
+    jQueryobj.html(txt.replace(/ /g, '<br/>'))
+});
+jQuery('#menu-1144-1 a.sf-depth-1').each(function(){
+    var jQueryobj = jQuery(this);
+    var txt = jQueryobj.text();
+    jQueryobj.html(txt.replace('SmartMarketing on Demand', 'SmartMarketing<br/>on Demand'))
+});
+jQuery('#menu-1156-1 a.sf-depth-1').each(function(){
+    var jQueryobj = jQuery(this);
+    var txt = jQueryobj.text();
+    jQueryobj.html(txt.replace('Testimonials & Showcase', 'Testimonials<br/>& Showcase'))
+});
+</script>
+
+  </div><div id="block-block-12" class="block block-block  block-block-12">      <script type="text/javascript">
+_linkedin_data_partner_id = "25216";
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>  </div>  </div>
+            <div id="copy">&copy; Terry Forsey Consulting 2018</div>
+        </div>
+	</div>
+</div>  <script type="text/javascript" src="http://dww.terryforsey.com/sites/default/files/js/js_CHdo-l9ISX43Q_oATmSv1_1UQTilw34opp1wwOEPwBM.js"></script>
+  <script type="text/javascript">
+  	/* <![CDATA[ */
+  		document.write ('<img src="http://marketing.terryforsey.com/acton/bn/3517/visitor.gif?ts='+ new Date().getTime()+ '&ref='+escape(document.referrer) + '">' ); var aoAccountId = '3517'; var aoCookieMode = 'STANDARD'; var aoCookieDomain = 'terryforsey.com'; var aoServerContext = 'http://marketing.terryforsey.com/acton';
+ 	 /* ]]> */
+	</script>
+	<script type="text/javascript" src="http://marketing.terryforsey.com/acton/js/sfga.js"></script>
+	<script type="text/javascript">/* <![CDATA[ */ var google_conversion_id = 1072287139; var google_custom_params = window.google_tag_params; var google_remarketing_only = true; /* ]]> */</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+	<noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072287139/?value=0&amp;guid=ON&amp;script=0"/></div></noscript>
+	<script type="text/javascript">	_linkedin_data_partner_id = "25216";</script>
+	<script type="text/javascript">(function(){var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(); </script><noscript><img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=25216&fmt=gif" /></noscript>
+	<!-- begin Moneypenny code --><script type="text/javascript">(function() {var se = document.createElement("script"); se.type = "text/javascript"; se.async = true; se.src = "//storage.googleapis.com/moneypennychat/js/1942a96e-c5e1-4540-8613-a39da762ee28.js"; var done = false; se.onload = se.onreadystatechange = function() {if (!done&&(!this.readyState||this.readyState==="loaded"||this.readyState==="complete")) {done = true;var seAgent;Moneypenny.setCallback('StartChat', function(email, msg, type) { if (type == 'proactive') { ga('send','event','Moneypenny', 'proactiveEngaged', 'Proactive Start Chat');}});Moneypenny.setCallback('StartChat', function(msg) { ga('send','event','Moneypenny', 'proactiveEngaged', 'Manual Start Chat');});}};var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(se, s);})();</script><!-- end Moneypenny code --><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-204566-3', 'auto'); </script>
+</body>
+</html>
+
+<!-- Page cached by Boost @ 2018-04-16 09:07:32, expires @ 2018-04-16 10:07:32, lifetime 1 hour -->

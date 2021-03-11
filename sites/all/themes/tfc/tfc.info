@@ -1,0 +1,13 @@
+name = TFC
+description = Custom theme for TFC
+package = Core
+version = VERSION
+core = 7.x
+stylesheets[all][] = css/style.css
+stylesheets[all][] = ../custom/custom.css
+
+regions[header] = Header
+regions[featured] = Featured
+regions[content] = Content
+regions[right] = Right
+regions[footer] = Footer

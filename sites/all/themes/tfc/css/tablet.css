@@ -1,0 +1,146 @@
+/* CSS Document */
+
+h1 { font-size:24px; }
+
+#copy { font-size:10px; }
+#footer { padding:20px 0 40px 0; }
+#header .widther { height:144px; }
+#logo { height:84px; }
+#logo img { width:84px; height:84px; }
+#main { padding:30px 0; clear:both; }
+#maincol { margin-bottom:20px; }
+#maincol.withright, #rightcol { width:auto; float:none; }
+#maincol.withright .pad { padding:0; }
+#phonenumber { font-size:18px; }
+#block-views-act-on-iframe-block iframe { height:540px; }
+
+.centfull { width:100%; height:auto; }
+.vidbody { width:436px; height:245px; }
+.widther { width:auto; padding:0 10px; }
+
+/*Menu*/
+#block-superfish-1 { right:10px; top:90px; }
+#superfish-1 li a { line-height:11px; font-size:9px; padding: 6px 5px 0 5px; }
+
+/*Footer Menu*/
+#superfish-2 li a { font-size:13px; }
+#superfish-2 .sf-item-1, #superfish-2 .sf-item-5, #superfish-2 .sf-item-2, #superfish-2 .sf-item-3, #superfish-2 .sf-item-6, #superfish-2 .sf-item-7, #superfish-2 .sf-item-4 { width:100%; }
+
+/*Social Links*/
+#sociallinks { height:26px; }
+#sociallinks li { width:30px; }
+#sociallinks li.add { width:26px; }
+#sociallinks li a { width:26px; height:26px; background-size:130px 52px; }
+#sociallinks li a:hover { background-position:0 -26px; }
+#sociallinks li.linkedin a { background-position:-26px 0; }
+#sociallinks li.linkedin a:hover { background-position:-26px -26px; }
+#sociallinks li.facebook a { background-position:-52px 0; }
+#sociallinks li.facebook a:hover { background-position:-52px -26px; }
+#sociallinks li.googleplus a { background-position:-78px 0; }
+#sociallinks li.googleplus a:hover { background-position:-78px -26px; }
+#sociallinks li.add a { background-position:-104px 0; }
+#sociallinks li.add a:hover { background-position:-104px -26px; }
+
+/*Video Links*/
+.view-video-link .field-content a { width:100%; }
+.view-video-link .field-content a span { padding:0 0 0 110px; font-size:18px; }
+.node-type-video .node iframe { width:480px; height:270px; }
+
+/*Home*/
+#homemenu { height:208px; max-width:510px; }
+#homemenu li { width:94px; height:94px; }
+#homemenu li a { width:84px; height:84px; background-size:756px 168px; }
+#homemenu li a span { padding:55px 0 0 5px; font-size:8px; }
+#homemenu .base a:hover { background-position:0 -84px; }
+#homemenu .selling a { background-position:-84px 0; }
+#homemenu .selling a:hover { background-position:-84px -84px; }
+#homemenu .marketing a { background-position:-168px 0; }
+#homemenu .marketing a:hover { background-position:-168px -84px }
+#homemenu .coaching a { background-position:-252px 0; }
+#homemenu .coaching a:hover { background-position:-252px -84px }
+#homemenu .nonexec, #homemenu .website { width:84px; }
+#homemenu .nonexec a { background-position:-336px 0; }
+#homemenu .nonexec a:hover { background-position:-336px -84px }
+#homemenu .writing a { background-position:-420px 0; }
+#homemenu .writing a:hover { background-position:-420px -84px }
+#homemenu .onlinead a { background-position:-504px 0; }
+#homemenu .onlinead a:hover { background-position:-504px -84px }
+#homemenu .video a { background-position:-588px 0; }
+#homemenu .video a:hover { background-position:-588px -84px }
+#homemenu .website a { background-position:-672px 0; }
+#homemenu .website a:hover { background-position:-672px -84px }
+.front #maincol.withright, .front #rightcol { width:auto; float:none; }
+#block-views-side-links-block-2 .views-row { width:49%; margin-right: 2%; }
+#block-views-side-links-block-2 .views-row-2, #block-views-side-links-block-2 .views-row-4 {  margin: 0;}
+.front .view-side-links .views-field-title a span { font-size:14px; }
+#block-block-13 a img, #block-block-14 a img { width:100%; height:auto; }
+/*2018*/
+#homemenu2018 { height:170px; }
+#homemenu2018 li { width:93px; height:140px;  }
+#homemenu2018 li a { width:88px; height:140px; background-image:url(../images/hp-buttons2018_t.png); }
+#homemenu2018 li a h2 { font-size:9px; padding:15px 2px; line-height:9px; }
+#homemenu2018 li a p { display:none; }
+#homemenu2018 li a span { width:88px; line-height:20px; font-size:9px; background-image:url(../images/hp-buttons2018more_t.png); }
+#homemenu2018 .software a { background-position:-88px 0;  }
+#homemenu2018 .non a { background-position:-176px 0;0 }
+#homemenu2018 .coaching a { background-position:-264px 0; }
+#homemenu2018 .smod a { background-position:-352px 0;0 }
+#homemenu2018 .smod { width:88px; }
+#homemenu2018 .software a span { background-position:-88px bottom; }
+#homemenu2018 .non a span { background-position:-176px bottom; }
+#homemenu2018 .coaching a span { background-position:-264px bottom; }
+#homemenu2018 .smod a span { background-position:-352px bottom; }
+#homemenu2018 a:hover span { background-position:-440px bottom; }
+
+/*Theme Pages*/
+.taxonomy-attract #maincol.withright .pad, 
+.taxonomy-engage #maincol.withright .pad, 
+.taxonomy-nurture #maincol.withright .pad, 
+.taxonomy-close #maincol.withright .pad, 
+.taxonomy-attract--engage #maincol.withright .pad, 
+.taxonomy-engage--nurture #maincol.withright .pad,
+.taxonomy-your-challenge #maincol.withright .pad,
+.taxonomy-resources #maincol.withright .pad,
+.taxonomy-lead-generation #maincol.withright .pad,
+.taxonomy-contact #maincol.withright .pad,
+.taxonomy-consultancy #maincol.withright .pad,
+.taxonomy-smartmarketing #maincol.withright .pad { background:none; padding:0; }
+
+/*Winning Methodology*/
+.page-node-29 .field-name-body img, .page-node-682 .field-name-body img { width:480px; }
+.wmattract, .wmattract img { height:81px; }
+.wmengage, .wmengage img { height:53px; }
+.wmnurture, .wmnurture img { height:49px; }
+.wmclose, .wmclose img { height:90px; }
+.page-node-682 #block-views-act-on-iframe-block iframe { height:220px; }
+
+/*Team Members*/
+.view-the-team .views-row-4, .view-the-team .views-row-8 { width:194px; }
+.view-the-team .views-row-3, .view-the-team .views-row-6, .view-the-team .views-row-9 { width:184px; }
+
+/*Grey Links*/
+.view-grey-links .views-row, .view-grey-links .views-row-3, .view-grey-links .views-row-6, .view-grey-links .views-row-9, .front .view-grey-links .views-row, .front .view-grey-links .views-row-3, .front .view-grey-links .views-row-6, .front .view-grey-links .views-row-9  { width:33%; }
+.view-grey-links .views-field-title a, .front .view-grey-links .views-field-title a { font-size:12px; width:90%; }
+
+/*Contact*/
+#node-24 iframe { height:540px; }
+
+/*I'm In*/
+.imincontainer { width:480px; }
+.iminsubscribe { width:291px; }
+.iminfield, .iminfield:focus, .iminfieldselected, .iminfieldselected:focus { width:250px; }
+
+/*SMOD*/
+#node-753 .field-name-body iframe, #node-761 .field-name-body iframe { width:480px; height:270px; }
+#SMODWordle, #SMODWordleN { display:none; }
+#SMODWordleT, #SMODWordleNS { display:block; }
+.SMODWebinarBig { display:none; }
+.SMODWebinarSmall img { display:block; width:460px; height:auto; }
+.SMODWebinarSmall { display:block; margin-bottom:10px; }
+#node-747 iframe { height:500px; }
+
+/*showcase*/
+#block-views-showcase-block-3 table { width:100%; }
+#block-views-showcase-block-3 table img { width:100%; height:auto; }
+#block-views-showcase-block-3 .views-field-title { width:13%; }
+.views-field-field-showcase-valuable-collater, .views-field-field-showcase-video, .views-field-field-showcase-ppc { width:29%; }
