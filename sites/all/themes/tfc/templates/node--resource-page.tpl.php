@@ -101,7 +101,9 @@
       // We hide the comments and links now so that we can render them later.
       hide($content['comments']);
       hide($content['links']);
-      print render($content);
+      print render($body[0]['value']);
+      print views_embed_view('resource_content_lists','block', $resource_args);
+
     ?>
   </div>
 
