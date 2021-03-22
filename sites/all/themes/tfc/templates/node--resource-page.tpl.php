@@ -102,9 +102,33 @@
       hide($content['comments']);
       hide($content['links']);
       print render($body[0]['value']);
-      print views_embed_view('resource_content_lists','block', $resource_args);
-
     ?>
+    <div class="view view-resource-content-lists view-id-resource_content_lists view-display-id-block ppsh-main-flex view-resources view-id-resources">
+      <div class="view-content">
+        <?php foreach($resource_items as $resource_item) { ?>
+
+        <div class="ppsh-flex">
+          <div class="resourceslist">
+            <div class="resourcespad">
+              <div class="resource-thumb"><a href="<?php print render($resource_item['link']); ?>"><?php print render($resource_item['image']); ?></a></div>
+              <h2><?php print render($resource_item['title']); ?></h2>
+              <p><?php print render($resource_item['description']); ?></p>
+              <a href="<?php print render($resource_item['link']); ?>" class="resourcesmore">
+                <span class="resourcesdownload">More...</span>
+              </a>
+            </div>
+          </div>
+        </div>
+
+
+        <?php  } ?>
+
+
+
+      </div>
+    </div>
+
+
   </div>
 
   <?php print render($content['links']); ?>
