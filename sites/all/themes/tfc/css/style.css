@@ -1623,6 +1623,13 @@ block-views-act-on-iframe-block-3 h2 {
 .resourceslist h2 a:hover {
   color: #000;
 }
+.view-resource-content-lists .resourceslist p {
+  line-height: normal;
+  font-size: 12px;
+  padding: 5px;
+  //margin: 27px;
+}
+
 .resourceslist p {
   font-size: 12px;
   padding: 0;
@@ -1850,6 +1857,11 @@ a.resourcesmore {
   overflow: hidden;
 }
 
+.resource-thumb img {
+  width: 100%;
+  height: auto;
+}
+
 img {
   max-width: 100%;
 }
@@ -1868,4 +1880,9 @@ img {
   .ppsh-main-flex > .view-content {
     grid-template-columns: 1fr;
   }
+}
+
+#downloader {
+  display: none;
+  width: 200px;
 }
